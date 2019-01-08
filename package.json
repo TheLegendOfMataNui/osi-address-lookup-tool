@@ -1,0 +1,8 @@
+{
+	"private": true,
+	"dependencies": {
+		"@sage-js/core": "^0.11.0",
+		"@sage-js/res-osi": "^0.11.0",
+		"fs-extra": "^7.0.1"
+	}
+}
